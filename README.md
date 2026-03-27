@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahesh Rathod
 
-<!--
-**Datawithmahi/Datawithmahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Full Stack Developer**
+🚀 Passionate about building real-world web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🔭 Currently working on **Full Stack Projects**
+* 🌱 Learning **DSA & System Design**
+* 💡 Interested in **Web Development & Scalable Apps**
+* 🎯 Goal: Get into top MNC / Product-based companies
+* 💼 Open to **Internships & Opportunities**
+
+---
+
+## ⚙️ Tech Stack
+
+* 💻 Languages: JavaScript, Python
+* 🌐 Frontend: React.js, HTML5, CSS3
+* 🛠️ Backend: Node.js, Express.js
+* 🗄️ Database: MongoDB
+* 🔧 Tools: Git, GitHub, VS Code
+
+
+## 🔥 Projects
+
+* 🚀 **Placement & Training Web App**
+* 📱 **Real-Time Web Applications**
+* 🎨 **Frontend UI Projects (React)**
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+* 🧑‍💻 GitHub: https://github.com/yourusername
+
+---
+
+## ⚡ Fun Fact
+
+I love turning ideas into real-world applications 🚀
