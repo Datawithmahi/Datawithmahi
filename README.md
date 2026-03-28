@@ -35,7 +35,7 @@
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: www.linkedin.com/in/mahesh-rathod-7a6b69308
-* 🧑‍💻 GitHub: [https://github.com/Datawithmahi/Datawithmahi]
+* 🧑‍💻 GitHub: [https://github.com/Datawithmahi]
 
 ---
 
